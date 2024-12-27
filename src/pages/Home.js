@@ -4,27 +4,27 @@ export default function Home() {
     const people = [
         {
         name: 'MissMayulee Chailangka',
-        description: "นางสาวมยุลีย์ พงษ์บุพศิริกุล <br> หัวหน้าสาขางานเทคโนโลยีสารสนเทศ",
+        description: "นางสาวมยุลีย์ พงษ์บุพศิริกุล  หัวหน้าสาขางานเทคโนโลยีสารสนเทศ",
         img: 'https://www.lannapoly.ac.th/online/Tea_picture/10402.jpg'
         },
         {
         name: 'MissNutthakan Pirom',
-        description: "นางสาวณัฐกานต์ ภิรมณ์ <br> รองหัวหน้าสาขาวิชาเทคโนโลยีสารสนเทศ",
+        description: "นางสาวณัฐกานต์ ภิรมณ์  รองหัวหน้าสาขาวิชาเทคโนโลยีสารสนเทศ",
         img: 'https://www.lannapoly.ac.th/online/Tea_picture/10439.jpg'
         },
         {
         name: 'MissSawitta Pratoom',
-        description: "นางสาวสวิตตา ประทุม <br> ครูเทคโนโลยีสารสนเทศ",
+        description: "นางสาวสวิตตา ประทุม  ครูเทคโนโลยีสารสนเทศ",
         img: 'https://www.lannapoly.ac.th/online/Tea_picture/10439.jpg'
         },
         {
         name: 'MissThunyalak Kuntha',
-        description: "นางสาวธัญญลักษณ์ กันธะ <br> ครูเทคโนโลยีสารสนเทศ",
+        description: "นางสาวธัญญลักษณ์ กันธะ  ครูเทคโนโลยีสารสนเทศ",
         img: 'https://www.lannapoly.ac.th/online/Tea_picture/10421.jpg'
         },
         {
         name: 'Mr.Paisan N.Lampang',
-        description: "นางสาวสวิตตา ประทุม <br> ครูเทคโนโลยีสารสนเทศ",
+        description: "นางสาวสวิตตา ประทุม  ครูเทคโนโลยีสารสนเทศ",
         img: 'https://www.lannapoly.ac.th/online/Tea_picture/10439.jpg'
         },
     ];
